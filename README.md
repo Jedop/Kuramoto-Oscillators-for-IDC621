@@ -44,4 +44,3 @@ The Kuramoto model describes a large population of interacting limit-cycle oscil
    python plot.py
    ```
    This will read the `.dat` files and present the required plots.
-```
